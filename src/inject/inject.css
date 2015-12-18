@@ -1,0 +1,26 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+ .table-list-cell-hk {
+ 	width: 50px;
+ }
+
+ .table-list-cell-hk a {
+ 	position: relative;
+ 	top: -4px;
+ }
+
+.table-list-cell-hk a span {
+	background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAkCAYAAAAdFbNSAAAABGdBTUEAALGPC/xhBQAAA7FJREFUWAnNmEtoU1EQhk0alD60ggm+dqLgQlSKuHGnUOqrqKWrYGpbCElQqIt2Uym4UtGVSlKatgajq6qgCCmK4kJXYlGs4qaLgqVWIopEouRRvwltuKa5j9x7Y3vh9J6emfnnP3Nnzjk5jlWKJxAIdDkcjlMMNfHerBCZ6obDYYcpQx0jl8g7Ozs9tbW1t+m26OivCLFTWNhNeH5+/iOwN9VmyBc9Q9uvJtcbd0hKOJ3OET1FHfkP5A8g+yydTj+PxWJftPSDwWBW5OhfzufzF4eGhjJa+qUyF4TbSgeN/o/T3+jeoF2KRCLfjdpRLzWiy7sf/0f9fr8P4u+N2kt6NBlVXtSDbI42kslkdkC2rxLCixiK916Xy/U6FAr1MVZIV4WsbFcKcVM5SbUqv5wvxtbQrpA2rblcroOoT6noFYYNzUwLwE4Z6XKAqL+jzoJauIUlT0vBDpnP59tQV1e3B6ytENuig1lPnoeJ+glSsGtwcHCmVL9qpBeIhiB5jLYPxxV9VWyaaZOQP0fN3FESt510e3v7arfb3Y+T8zhdq3Rmor8ejLhEnVwPkOtJwaho9npOJboej+cpjgZsIFx0B1YbuS5Rb5VB2yLt9XrXNTQ0vARzZ9GbvZ2NkH/I0thrG+nGxsZYFQkXpk9hZmiztpBm9sdBPVlArtIfyE5ms9nT0Wj0rS2kAbzAp6sS3VUcT/LXpqenBxKJxB9xYpk0xbENwqZPbFozJRhTtA7W6ldKPcukAT2kEWWJzAd0PvP+ynsOXWnXlSTK9dGNpFKp3ng8/qtUbpk0u9duJSjOhFwUYo9ZW9+UO3ZSA6qksZ3BtosN5YkSV9m3TBonbpwI5jfaAOfpUc7TcmQ189zF/iz2cj5XfSyTBvkn7ROVfZCozqp60hAw8SQtQO7e11AriiyTTiaTPaDVjI2NpYqoFXQg+4hzuX94eHjOqJll0pBNG3Wm0BMb2Sh6yN1binFDXVvPHoY8osS6e4TXLi3C3d3d29XwLEdaDVhrnNx9oSVndQnxFa6iU19Ob1lIlyMiY/xikR8Jo3TlLK2mZu/RVNWLAQGEvaz5k5Bt1lNfEZHmKHAPsoavMpalEEsjWQlhsV0RpEsnofe/pIdcYS25+5AC1jOuslz1ak0iPVFl52bhVXk5WegN7fdmPZu10+JVWAxJhQTgLWYdVMFunGu5w2q4hULkOOhDYVxN6T+Pjy/wUXX7z7azcFct66XcpC4pTlUU6wIpuglJCbZ42RE1n78ok1Jt/wFgWgAAAABJRU5ErkJggg==');
+	-webkit-background-size: 15px 12px;
+	background-size: 15px 12px;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	display: inline-block;
+	width: 16px;
+	height: 21px;
+    background-position: center 7px;
+    position: relative;
+    top: 4px;
+}
